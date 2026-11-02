@@ -1,18 +1,9 @@
-\# My First Git Lab
-
-
+# My First Git Lab
 
 This is my first document stored in Git.
 
+## Things I Learned
 
-
-\## Things I Learned
-
-
-
-\- Git tracks changes to files.
-
-\- GitHub stores my repository online.
-
-\- \*\*SSH keys\*\* keep my account secure.
-
+- Git tracks changes to files.
+- GitHub stores my repository online.
+- **SSH keys** keep my account secure.
